@@ -1,4 +1,4 @@
-# Pemrogramman-SIstem-Embedded
+# Pemrogramman-Sistem-Embedded
 Semester Genap 2018
 
 # UAS (Final Exam) #
